@@ -1,0 +1,27 @@
+/*
+  * Name:           index.css
+  * Introduction:  mis系统css
+  * Author：       徐鹏飞
+  * Time:           2015-05-28
+ */
+
+@charset 'utf-8';
+/*reset*/
+body,
+button,
+input,
+select,
+textarea
+{
+    font: 12px/1.5  'Microsoft YaHei',arial,tahoma,\5b8b\4f53;
+}
+
+.main-content
+{
+    margin-top: 45px;
+}
+
+.user-info
+{
+    text-align: center;
+}
